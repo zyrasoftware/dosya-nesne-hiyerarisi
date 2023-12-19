@@ -22,6 +22,7 @@ Bu C++ programı, basit bir dosya sistemi nesne hiyerarşisi üzerinde çalışa
 - `Folder` içinde bulunan dosyaları ve alt klasörleri depolamak için bir vektör kullanır.
 - `addFile` fonksiyonu, bir dosya veya klasörü eklemek için kullanılır.
 - `addFile` fonksiyonu, bir dosya veya klasörü eklemek için kullanılır alt klasörlerin display fonksiyonlarını çağırarak içeriğini gösterir.
+   - `setlocale(LC_ALL, "Turkish");` ifadesi ile Türkçe karakter desteği sağlanır.
 
 
 # Örnek Kullanım

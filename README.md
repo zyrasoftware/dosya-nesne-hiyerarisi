@@ -1,7 +1,9 @@
 # dosya sistemi nesne hiyerarşisi
 Bu C++ programı, basit bir dosya sistemi nesne hiyerarşisi üzerinde çalışan bir örnek sunmaktadır. 
 
+# FileSystemObject Hiyerarşisi
 
+*Bu C++ programı, basit bir dosya sistemi nesne hiyerarşisi üzerinde çalışan bir örnek sunmaktadır. FileSystemObject temel sınıfından türetilmiş File ve Folder sınıfları kullanılarak bir dosya sistemi oluşturulmaktadır.*
 
 # Temel Sınıf: `FileSystemObject`
 - `FileSystemObject` sınıfı, temel dosya sistemi nesnesini temsil eder.

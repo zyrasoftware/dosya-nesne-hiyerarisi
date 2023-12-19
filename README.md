@@ -3,7 +3,7 @@ Bu C++ programı, basit bir dosya sistemi nesne hiyerarşisi üzerinde çalışa
 
 
 
-# Temel Sınıf: `FileSystemObject``
+# Temel Sınıf: `FileSystemObject`
 - `FileSystemObject` sınıfı, temel dosya sistemi nesnesini temsil eder.
 - Her dosya veya klasör, isim özelliğine sahiptir ve bu sınıf tarafından sağlanan temel özellikleri içerir.
 - `display` fonksiyonu saf sanal bir fonksiyondur, bu nedenle türetilen sınıflarda uyarlanmalıdır.

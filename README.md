@@ -29,7 +29,7 @@ Bu C++ programı, basit bir dosya sistemi nesne hiyerarşisi üzerinde çalışa
 **Bu örneği kullanarak, basit bir dosya sistemi nesne yapısı oluşturabilir ve dosya ve klasörler arasındaki ilişkiyi gözlemleyebilirsiniz.**
 
 # Ekran Resmi
-![zyrasoftware](kodde.png)
+![zyrasoftware](kodde.PNG)
 
 # Bilgilendirme
 **---------------------------------------------------------**

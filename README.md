@@ -34,4 +34,5 @@ Bu C++ programı, basit bir dosya sistemi nesne hiyerarşisi üzerinde çalışa
 | Herkese Açık | Geliştirilebilir | Zyra Software|
 |---------|---------|---------|
 | Açık | Geliştirilebilir |@zyrasoftware |
-**---------------------------------------------------------**
+
+
